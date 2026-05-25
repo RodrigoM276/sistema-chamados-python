@@ -41,3 +41,4 @@ http://127.0.0.1:5000
 ## Diferencial para recrutadores
 
 Este projeto simula uma rotina real de Service Desk/ITSM, aproximando o conhecimento técnico da experiência prática em suporte corporativo.
+
